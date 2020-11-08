@@ -1,2 +1,3 @@
-# python folder for games & apps
-python code for some simple games & apps
+# Python folder for games & apps
+
+Python code for some simple games & apps
