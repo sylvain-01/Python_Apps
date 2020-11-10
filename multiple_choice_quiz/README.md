@@ -1,7 +1,5 @@
 # Multiple Choice Quiz
 
-Python Projects - Games & Apps.
-
 Coded with python i created a multiple choice quiz
 
 That you can run & take the quiz in the terminal
