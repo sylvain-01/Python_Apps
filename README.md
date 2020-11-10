@@ -4,10 +4,10 @@ Contains some games & apps coded in Python
 
 # Games include:
 
-Hangman  
+- Hangman  
 
 # Apps include: 
 
-Multiple choice quiz 
+- Multiple choice quiz 
 
-Calculator
+- Calculator
