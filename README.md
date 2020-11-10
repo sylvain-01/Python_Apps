@@ -1,10 +1,8 @@
-# Python Project Folder 
+# Python project folder that contains some games & apps coded in Python
 
-Python code for some games & apps
+# (Games include) 
+# ***Hangman 
 
-Games include: 
-- Hangman
-
-Apps include: 
-- Multiple choice quiz 
-- Calculator
+# (Apps include) 
+# ***Multiple choice quiz 
+# ***Calculator
