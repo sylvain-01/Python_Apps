@@ -1,4 +1,6 @@
-# Python project folder that contains some games & apps coded in Python
+# Python project folder 
+
+Contains some games & apps coded in Python
 
 # Games include:
 
