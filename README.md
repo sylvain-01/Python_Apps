@@ -1,8 +1,11 @@
 # Python project folder that contains some games & apps coded in Python
 
-# (Games include) 
-# ***Hangman 
+# Games include:
 
-# (Apps include) 
-# ***Multiple choice quiz 
-# ***Calculator
+Hangman  
+
+# Apps include: 
+
+Multiple choice quiz 
+
+Calculator
