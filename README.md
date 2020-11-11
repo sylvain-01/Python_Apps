@@ -2,12 +2,12 @@
 
 Contains some games & apps coded in Python
 
-# Games include:
+# Games & Apps include:
 
 - Hangman  
-
-# Apps include: 
 
 - Multiple choice quiz 
 
 - Calculator
+
+- Clock (shows the time, day of week & date)
