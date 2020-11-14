@@ -6,8 +6,8 @@ on your computer
 
 App coded with Python using the modules
 
-- gtts - google to text speech
+- Gtts - google to text speech
 
-- playsound
+- Playsound
 
-- tkinter
+- Tkinter
