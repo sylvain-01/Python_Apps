@@ -2,14 +2,14 @@
 
 Contains some games & apps coded in Python
 
-# Games & Apps include:
+# Games include:
 
-- Hangman  
+- Hangman
+- Rock, Paper, Scissors
+
+ Apps include:
 
 - Multiple choice quiz 
-
 - Calculator
-
 - Clock (shows the time, day of week & date)
-
 - Text to speech
