@@ -2,7 +2,7 @@
 
 Contains some games & apps coded in Python
 
-# Games include:
+Games include:
 
 - Hangman
 - Rock, Paper, Scissors
