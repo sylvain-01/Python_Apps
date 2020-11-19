@@ -1,6 +1,6 @@
 # Python project folder 
 
-Contains some games & apps coded in Python
+Mix of games & apps i created. All coded in Python using pycharm IDE on Linux/Ubuntu OS.
 
 Games include:
 
