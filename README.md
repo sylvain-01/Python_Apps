@@ -6,6 +6,7 @@ Games include:
 
 - Hangman
 - Rock, Paper, Scissors
+- Flappy bird game
 
  Apps include:
 
