@@ -6,11 +6,13 @@ Games include:
 
 - Hangman
 - Rock, Paper, Scissors
-- Flappy bird game
+- Flappy Bird Game
 
  Apps include:
 
-- Multiple choice quiz 
+- Multiple Choice Quiz 
 - Calculator
 - Clock (shows the time, day of week & date)
-- Text to speech
+- Text to Speech
+- Encode & Decode Messages
+
