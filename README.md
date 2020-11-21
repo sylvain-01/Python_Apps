@@ -1,14 +1,8 @@
-# Python project folder 
+# Python Apps 
 
-Mix of games & apps i created. All coded in Python using pycharm IDE on Linux/Ubuntu OS.
+Mix of apps i created. All coded in Python using pycharm IDE on Linux/Ubuntu OS.
 
-Games include:
-
-- Hangman
-- Rock, Paper, Scissors
-- Flappy Bird Game
-
- Apps include:
+Apps include:
 
 - Multiple Choice Quiz 
 - Calculator
