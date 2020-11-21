@@ -10,4 +10,5 @@ Apps include:
 - Text to Speech
 - Encode & Decode Messages
 - YouTube Video Downloader
+- Language Translator
 
